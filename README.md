@@ -1,28 +1,27 @@
-News Website
-Introduction
-This project is a simple News Website that displays daily news using HTML, CSS, and JavaScript. The website is designed to provide users with a clean and intuitive interface to stay updated with the latest news.
+# News Website
 
-Features
--Daily News Updates: The website fetches and displays the latest news articles every day.
--Responsive Design: The user interface is responsive, ensuring a seamless experience on various devices.
-Technologies Used
--HTML: Used for structuring the web pages.
--CSS: Employed for styling and layout.
--JavaScript: Used for dynamic content and fetching news data.
-Setup
-Clone the repository to your local machine:
--git clone https://github.com/your-username/news-website.git
-Open the index.html file in your web browser.
+## Overview
 
-Usage
--Navigate through different sections to explore news categories.
--Click on a news article to read the full details.
--The website automatically updates news daily.
-Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests to enhance the functionality or fix any bugs.
+This project is a simple News Website that provides daily news updates. It is built using HTML, CSS, and JavaScript.
 
-Credits
--News data is sourced from API News.
--Icons provided by FontAwesome.
-License
--This project is licensed under the MIT License.
+## Features
+
+- **Daily News Updates**: Fetches and displays the latest news articles every day.
+- **Responsive Design**: Ensures a seamless experience on various devices.
+
+## Technologies Used
+
+- **HTML**: Structure of the web pages.
+- **CSS**: Styling and layout.
+- **JavaScript**: Dynamic content and fetching news data.
+
+## Preview
+
+![News Website Screenshot](./screenshot.png)
+
+## Getting Started
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/your-username/news-website.git
