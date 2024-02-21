@@ -15,13 +15,11 @@ This project is a simple News Website that provides daily news updates. It is bu
 - **CSS**: Styling and layout.
 - **JavaScript**: Dynamic content and fetching news data.
 
-## Preview
 
-![News Website Screenshot](./screenshot.png)
 
 ## Getting Started
 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/news-website.git
+   git clone https://github.com/pop-singh/_DailyNews_.git
