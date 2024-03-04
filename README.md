@@ -43,13 +43,19 @@ Create a new branch for your feature or bug fix:
 git checkout -b feature-name
 Make your changes and commit them:
 
+
+
   ```bash
 git commit -m "Add your commit message here"
 Push the changes to your fork:
 
+
+
   ```bash
 git push origin feature-name
 Open a pull request, providing a detailed description of your changes.
+
+
 
 Acknowledgments
 News API: Thank you for providing the latest news data.
