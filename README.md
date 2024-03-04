@@ -25,3 +25,35 @@ A simple and responsive news website built using HTML, CSS, and JavaScript. It u
 
    ```bash
    git clone https://github.com/pop-singh/_DailyNews_.git
+
+   Open the index.html file in your web browser.
+
+Explore the latest news articles and enjoy!
+
+
+
+How to Contribute
+If you would like to contribute to the project, follow these steps:
+
+Fork the repository.
+
+Create a new branch for your feature or bug fix:
+
+bash
+git checkout -b feature-name
+Make your changes and commit them:
+
+bash
+
+git commit -m "Add your commit message here"
+Push the changes to your fork:
+
+bash
+
+git push origin feature-name
+Open a pull request, providing a detailed description of your changes.
+
+Acknowledgments
+News API: Thank you for providing the latest news data.
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
